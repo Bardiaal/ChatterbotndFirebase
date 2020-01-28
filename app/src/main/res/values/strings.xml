@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChatterBot</string>
+    <string name="btSend">Enviar</string>
+    <string name="etText">Escribe un mensaje</string>
+    <string name="chat">Chatterbot</string>
+    <string name="telephone_hint">ej.: 123456789</string>
+    <string name="sendCode">Verificar mi teléfono</string>
+    <string name="register_text">Inserta tu número para continuar:</string>
+    <string name="code_hint">ej.: 000000</string>
+    <string name="failedVerification">Verificación fallida</string>
+    <string name="numberError">Número erróneo</string>
+    <string name="mess_title_dialog">Código de verificación</string>
+    <string name="mess_number">Introduzca el número de confirmación que se le ha enviado por SMS</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancelledVerNum">Verificación cancelada</string>
+    <string name="working">Un momento...</string>
+    <string name="waitPlease">En breves momentos estará todo listo</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="history">Historial</string>
+    <string name="cantVerify">No se ha podido verificar el número</string>
+    <string name="askLogout">Cerrar sesión</string>
+    <string name="askLogoutMessage">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="historyActivity">Historial de mensajes</string>
+    <string name="preparingData">Cargando datos del historial</string>
+    <string name="reproducir">Reproducir mensajes</string>
+</resources>

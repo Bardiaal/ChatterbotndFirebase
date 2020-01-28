@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412750388461",
+    "firebase_url": "https://chatterbot-9646f.firebaseio.com",
+    "project_id": "chatterbot-9646f",
+    "storage_bucket": "chatterbot-9646f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412750388461:android:57daa3a2711e9bd3de00e4",
+        "android_client_info": {
+          "package_name": "com.example.chatterbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412750388461-gn910nio5ld4a7gksekfvgs7vql7g0pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatterbot",
+            "certificate_hash": "05791ad81ce04779dfb2c10c5c1512d8707d4a65"
+          }
+        },
+        {
+          "client_id": "412750388461-gce92a5gibig1uu0l8e3g7v5h9brsac8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngj-8KpyoxqmfVgdJQBDCCDSib0dOf9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412750388461-gce92a5gibig1uu0l8e3g7v5h9brsac8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
